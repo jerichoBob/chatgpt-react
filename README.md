@@ -3,7 +3,11 @@
 ChatGPT-react is a little app that initially just mimics the ChatGPT interface. Right now, it is just the scaffolding for the program - more to come (obviously) but I am currently busy with other things.
 
 The meta-interesting this about this is that I ask ChatGPT (GPT-4) to write the initial code.
+## Screenshot
+Here is a screenshot of the produced app (with a tiny amount of hand-holding):
+![React App](images/React%20App.png)
 
+## ChatGPT Dialog
 Here's a screendump of the conversation: 
 ![Create Thyself](images/Chat-CreateThyself.png)
 
